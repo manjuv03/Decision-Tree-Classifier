@@ -15,11 +15,11 @@ VISUALIZATION
 
 
 FEATURES
-<li>Load Iris dataset**: Uses sklearn's built-in dataset.
-<li>Train-test split**: Splits data into training and testing sets.
-<li>Train a decision tree**: Uses `DecisionTreeClassifier` from sklearn.
-<li>Evaluate accuracy**: Compares predictions against true labels.
-<li>Tree visualization**: Generates a graphical representation of the decision tree.
+<li>Load Iris dataset: Uses sklearn's built-in dataset.
+<li>Train-test split: Splits data into training and testing sets.
+<li>Train a decision tree: Uses `DecisionTreeClassifier` from sklearn.
+<li>Evaluate accuracy: Compares predictions against true labels.
+<li>Tree visualization: Generates a graphical representation of the decision tree.
 
 REQUIREMENTS
 - Python 3.8+
